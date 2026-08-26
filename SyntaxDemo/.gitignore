@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 .kotlin
 
+# Anna flagged the site as some kind of pillory bunker.
 ### IntelliJ IDEA ###
 .idea/
 .idea/modules.xml

@@ -17,6 +17,9 @@ public class better_main {
 
         double dd= 3.1415; //more accurate
         float f= 3.14F; //faster
+        boolean bool = true;
+        char ch = 'a';
+
 
         int[] int_array = {1,2,3,4,5,6,7};
 

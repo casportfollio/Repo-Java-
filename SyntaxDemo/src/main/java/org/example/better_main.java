@@ -17,7 +17,7 @@ public class better_main {
                 "Land",
                 "40056"
 
-        )
+        );
 
     }
 }
